@@ -1,0 +1,11 @@
+C:\Tutourials\Projects\C#\MyProjects\MissedPrayes\MissedPrayers\MissedPrayers\bin\Debug\MissedPrayers.exe.config
+C:\Tutourials\Projects\C#\MyProjects\MissedPrayes\MissedPrayers\MissedPrayers\bin\Debug\MissedPrayers.exe
+C:\Tutourials\Projects\C#\MyProjects\MissedPrayes\MissedPrayers\MissedPrayers\bin\Debug\MissedPrayers.pdb
+C:\Tutourials\Projects\C#\MyProjects\MissedPrayes\MissedPrayers\MissedPrayers\obj\Debug\MissedPrayers.csprojAssemblyReference.cache
+C:\Tutourials\Projects\C#\MyProjects\MissedPrayes\MissedPrayers\MissedPrayers\obj\Debug\MissedPrayers.Form1.resources
+C:\Tutourials\Projects\C#\MyProjects\MissedPrayes\MissedPrayers\MissedPrayers\obj\Debug\MissedPrayers.Properties.Resources.resources
+C:\Tutourials\Projects\C#\MyProjects\MissedPrayes\MissedPrayers\MissedPrayers\obj\Debug\MissedPrayers.csproj.GenerateResource.cache
+C:\Tutourials\Projects\C#\MyProjects\MissedPrayes\MissedPrayers\MissedPrayers\obj\Debug\MissedPrayers.csproj.CoreCompileInputs.cache
+C:\Tutourials\Projects\C#\MyProjects\MissedPrayes\MissedPrayers\MissedPrayers\obj\Debug\MissedPrayers.exe
+C:\Tutourials\Projects\C#\MyProjects\MissedPrayes\MissedPrayers\MissedPrayers\obj\Debug\MissedPrayers.pdb
+C:\Tutourials\Projects\C#\MyProjects\MissedPrayes\MissedPrayers\MissedPrayers\obj\Debug\MissedPrayers.Form2.resources
